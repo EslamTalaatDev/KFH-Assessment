@@ -60,3 +60,7 @@ Retrofit: For network communication with the Bitbucket API.
 Dagger Hilt: For dependency injection.
 
 MVVM: For clean separation of concerns between UI and business logic.
+
+<img width="1024" height="1536" alt="clean_architecture_flow" src="https://github.com/user-attachments/assets/a3eb17b9-33f0-480e-a222-78aad64865ee" />
+
+
