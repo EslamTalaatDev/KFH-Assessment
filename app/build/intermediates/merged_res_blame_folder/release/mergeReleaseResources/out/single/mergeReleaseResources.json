@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.kfh.assessment.app-release-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kfh.assessment.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kfh.assessment.app-release-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kfh.assessment.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kfh.assessment.app-release-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kfh.assessment.app-main-55:/drawable/ic_launcher_foreground.xml"
+    }
+]

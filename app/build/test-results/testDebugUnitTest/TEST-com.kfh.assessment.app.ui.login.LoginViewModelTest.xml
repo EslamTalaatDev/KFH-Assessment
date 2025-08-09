@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kfh.assessment.app.ui.login.LoginViewModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-09T18:35:52" hostname="EG-MOBILE-ESLAM" time="1.539">
+  <properties/>
+  <testcase name="login_401_sets_error" classname="com.kfh.assessment.app.ui.login.LoginViewModelTest" time="1.539"/>
+  <system-out><![CDATA[Current state after login attempt: Error(message=INVALID 401)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\EslamTalaat\.gradle\caches\8.12\transforms\1f810aed04bc49b9224653a653d42963\transformed\jetified-byte-buddy-agent-1.14.6.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
