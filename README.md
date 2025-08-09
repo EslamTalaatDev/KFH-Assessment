@@ -1,4 +1,5 @@
 Android Technical Assessment
+
 This repository contains the solution to the Android Technical Assessment as requested. Below is an overview of the features, architecture, and technologies used in the project.
 
 Features Implemented
